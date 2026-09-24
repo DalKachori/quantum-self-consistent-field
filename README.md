@@ -80,9 +80,9 @@ the Coulomb Green's function.
 The solver can scan the internuclear separation and produce an
 approximate H₂ bonding curve.
 
-![H₂ bonding curve](results/bonding_curve.png)
+![H₂ bonding curve](results/bonding_curve.jpeg)
 
 As visible, the bonding curve greatly resembles the correct shape, with a dip at the bond length, blowing up to infinity at zero and plateauing at infinity
 
 It can also visualize the resulting electron density:
-![Electron density](results/density.png)
+![Electron density](results/density.jpeg)
